@@ -54,12 +54,15 @@ The script is beginner-friendly and covers all essential DataFrame functionaliti
 
 Install dependencies using:
 
----
+```bash
 pip install pandas numpy
+```
 
----
 ## ▶ How to Run
+
+```bash
 python pandas_dataframe.py
+```
 
 ---
 
@@ -76,5 +79,5 @@ python pandas_dataframe.py
 ---
 
 ## 📄 License
-
+```bash
 This project is open-source and free to use for learning and educational purposes.
